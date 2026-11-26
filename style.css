@@ -1,0 +1,29 @@
+/* Style the whole webpage */
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+/* Main portal box */
+.container {
+    background-color: white;
+    width: 350px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+/* Heading */
+h1 {
+    color: darkblue;
+}
+
+/* Button */
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
